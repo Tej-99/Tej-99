@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tej
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python,sql
-- 💞️ I’m looking to collaborate on data analysis projects
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
 
 <!---
