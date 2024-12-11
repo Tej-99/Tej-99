@@ -1,8 +1,8 @@
- Hi, I’m @Tejaswi
+ Hi, I’m @Tejaswi <br>
 🌟 Aspiring Data Scientist | Developer-in-Progress <br>
-📊 Passionate about turning data into meaningful insights.
-💻 Exploring Python, data analysis, and machine learning.
-🎯 Currently upskilling through real-world projects and internships.
+📊 Passionate about turning data into meaningful insights.<br>
+💻 Exploring Python, data analysis, and machine learning.<br>
+🎯 Currently upskilling through real-world projects and internships.<br>
 🚀 Open to collaboration on open-source and impactful data science projects..
 
 <!---
